@@ -1,0 +1,13 @@
+{
+  "catalogue": {
+    "name": "Standard",
+    "id": "cea3-3ec5-1839-9a69",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "117d-b123-c4c2-f666",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema"
+  }
+}
