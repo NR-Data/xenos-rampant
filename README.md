@@ -1,34 +1,27 @@
-Xenos Rampant
-==================
+# Xenos Rampant data
 
-[![Latest release](https://img.shields.io/github/release/BSData/xenos-rampant.svg?style=flat-square)](https://github.com/BSData/xenos-rampant/releases/latest)
-[![Commits (since latest release)](https://img.shields.io/github/commits-since/BSData/xenos-rampant/latest.svg?style=flat-square)](https://github.com/BSData/xenos-rampant/releases)
-[![Open bugs](https://img.shields.io/github/issues/BSData/xenos-rampant/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/xenos-rampant/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Contributors](https://img.shields.io/github/contributors/BSData/xenos-rampant.svg?style=flat-square)](https://github.com/BSData/xenos-rampant/graphs/contributors)
-[![Commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/xenos-rampant.svg?style=flat-square)](https://github.com/BSData/xenos-rampant/pulse/monthly)
+Army list data files for Xenos Rampant.
 
-[![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://www.bsdata.net/discord)
+> **Community rehost.** These files were written by the community contributors listed below and were previously published at `github.com/BSData/xenos-rampant`, which is no longer online. This copy keeps them available and open to updates.
+>
+> They are not made, maintained or endorsed by NewRecruit. Nobody here is affiliated with or endorsed by the publisher of Xenos Rampant. All game names and trademarks belong to their respective owners. You still need the official rules to play.
 
-## Overview ##
+## Is this maintained?
 
-__What's this?__
+It is open for updates, not archived. It is kept up by whoever contributes to it, so check the commit history to see how current it is. Last data change before the rehost: 2024-01-16.
 
-BSData organisation created this project. It's a GitHub repository of datafiles.
-Maintained by community, in no way endorsed by BattleScribe or any other company/publisher. If you want
-to develop - cool! We need you! Take a look at [our homepage][BSData.net]
+## How to update it
 
-__Okay, nice project. Is it actually working?__ _I just want those files..._
+- **Pull request:** fork this repository, make your changes and open a pull request.
+- **Write access:** if you want to maintain this game, ask on the NewRecruit Discord: https://discord.gg/cCtqGbugwb
 
-Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
+## File format
 
-__I found a bug!__ / *I have another request*
+The files are JSON, converted on 2026-11-16 from the original BattleScribe XML (`.cat`/`.gst`). The XML versions are in the git history before that commit.
 
-Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there.
+## Authors
 
-## Links ##
+From the git history of the data files:
 
-* [BSData organization homepage][BSData.net]
-* [BattleScribe app homepage](https://www.battlescribe.net/)
-
-[BSData.net]: https://www.bsdata.net/
-[bug report]: https://github.com/BSData/xenos-rampant/issues/new/choose
+- James Curtis
+- nygel
